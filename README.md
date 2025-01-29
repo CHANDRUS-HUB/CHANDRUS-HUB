@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi, I'm [Chandru] 👋
+🚀 About Me
+I’m a passionate developer with experience in Web development. I’m always looking for new challenges and ways to improve my skills!
 
-<!--
-**CHANDRUS-HUB/CHANDRUS-HUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Mern Stack.
+- 👯 I’m looking to collaborate on Full Stack Projects.
+- 🔭 I’m currently Studying on Master of Computer Application.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Tools
+Languages: Javascript
+Frameworks: React.js
+Tools: GitHub 
