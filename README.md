@@ -1,4 +1,4 @@
-Hi, I'm [Chandru] 👋
+Hi, I'm Chandru 👋
 🚀 About Me
 I’m a passionate developer with experience in Web development. I’m always looking for new challenges and ways to improve my skills!
 
@@ -8,5 +8,5 @@ I’m a passionate developer with experience in Web development. I’m always lo
 
 🔧 Technologies & Tools
 Languages: Javascript
-Frameworks: React.js
-Tools: GitHub 
+Frameworks: React.js,Tailwind css
+Tools: GitHub ,VsCode
