@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🌱 I’m currently learning Mern Stack.<br>- 👯 I’m looking to collaborate on Full Stack Projects.<br>- 🔭 I’m currently Studying on Master of Computer Application.
+<br>- 🌱 I’m currently learning Mern Stack.<br>- 👯 I’m eager to learning new Things and Technology.<br>- 🔭 I’m currently Studying on Master of Computer Application.
 
 
 ## 🌐 Socials:
