@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🌱 I’m currently learning <b style={background-color:blue}> Mern Stack</b> and My long-term goal is become <b> FullStack Developer</b>.<br>- 👯 I’m eager to learning new Things and Technologies.<br>- 🔭 I’m currently Studying on Master of Computer Application.
+<br>- 🌱 I’m currently learning <b > Mern Stack</b> and My long-term goal is become <b> FullStack Developer</b>.<br>- 👯 I’m eager to learning new Things and Technologies.<br>- 🔭 I’m currently Studying on Master of Computer Application.
 
 
 ## 🌐 Socials:
